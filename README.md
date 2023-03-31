@@ -1,6 +1,8 @@
 # BY
-This is a demo repository for BY batch.
-There are boys and girls in this batch.
+This is a France repository for BY batch.
+There are in this batch.
 What are students, the people present in this class are learners.
-Hello JUET
-Heloo JIET NOIDA
+Hello Nirma University
+Hello JUET 
+JUET is now A+ grade University.
+

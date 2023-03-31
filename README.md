@@ -1,6 +1,7 @@
 # BY
-This is a demo repository for BY batch.
-There are boys and girls in this batch.
+This is a France repository for BY batch.
+There are in this batch.
 What are students, the people present in this class are learners.
-Hello JUET
+Hello Nirma University
+Hello JUET 
 
